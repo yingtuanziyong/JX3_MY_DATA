@@ -1,7 +1,7 @@
 {
-  "name": "默认数据",
-  "author": "默认",
-  "version": "20190812",
+  "name": "影团自用",
+  "author": "难怪",
+  "version": "20200429",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
